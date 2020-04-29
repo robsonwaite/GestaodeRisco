@@ -1,0 +1,43 @@
+site
+https://www.infomoney.com.br/cotacoes/empresa-ticker/historico/
+
+
+Estabelecendo:
+
+Utilizando Fevereiro e Março de 2019;
+valor MaM => Valor do Fechamento.
+data da Posição => 1° dia útil de Abril.
+Nivel de confiança => 95%
+
+Objetivos:
+
+Calcular e avaliar o VaR em abril.
+
+Descrição:
+
+Calcular o VaR individual; 
+Calcular o VaR da Carteira; 
+Avaliar Perdas.
+
+
+Codigos:
+
+<Carteira Recomendada - Abril XP> -> Não encontrei dados de PCAR3
+<50 mil ações : Cota de 10% para cada>
+
+ambev-abev3
+banco-do-brasil-bbas3
+copel-cple6
+engie-brasil-egie3
+jbs-jbss3
+marfrig-mrfg3
+pao-de-acucar-pcar3
+localiza-rent3
+suzano-papel-suzb3
+vale-vale3
+
+
+
+
+
+
